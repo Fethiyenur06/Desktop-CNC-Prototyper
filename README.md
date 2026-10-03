@@ -1,4 +1,5 @@
 # 3-Axis Desktop CNC & PCB Prototyper
+![Mini CNC Tasarımı](Desktop-CNC-Prototyper.png)
 
 ## Overview
 This repository contains the mechanical architecture, electronic schematics, and control logic for a custom-built 3-axis desktop CNC milling machine. The system is specifically optimized for rapid PCB engraving, drilling, and small-scale mechanical prototyping. 
